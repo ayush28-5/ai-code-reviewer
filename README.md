@@ -320,13 +320,3 @@ curl -X POST http://127.0.0.1:5000/api/analyze \
 # 🤝 Contributing
 
 Contributions are welcome. Suggestions for new rules, language support, and feature improvements are encouraged.
-
----
-
-# 📄 License
-
-This project is licensed under the MIT License.
-
----
-
-Built with Python, Flask, and modern web technologies.
